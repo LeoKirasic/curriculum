@@ -58,6 +58,12 @@ One final note before diving back into the tutorial.  Express does not care abou
 1. Continue where we left off with the [MDN library tutorial (Part 3)!](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 </div>
 
+### Additional Resources
+This section contains helpful links to other content. It isn't required, so consider it supplemental.
+
+- For a deeper explanation of MVC you could read [this article from freeCodeCamp](https://medium.freecodecamp.org/simplified-explanation-to-mvc-5d307796df30).
+- This [crash course video](https://www.youtube.com/watch?v=DZBGEVgL2eE) from Web Dev Simplified gives a run-down of how you should expect to use MongoDB (Mongoose) in Node.js, as well as some advanced things you can do with object schemas.
+
 ### Knowledge Checks 
 This section contains questions for you to check your understanding of this lesson. If you’re having trouble answering the questions below on your own, review the material above to find the answer.
 
@@ -65,10 +71,3 @@ This section contains questions for you to check your understanding of this less
 - <a class='knowledge-check-link' href='#model'>What does the Model in "MVC" refer to?</a>
 - <a class='knowledge-check-link' href='#view'>What does the View in "MVC" refer to?</a>
 - <a class='knowledge-check-link' href='#controller'>What does the Controller in "MVC" refer to?</a>
-
-
-### Additional Resources
-This section contains helpful links to other content. It isn't required, so consider it supplemental.
-
-- For a deeper explanation of MVC you could read [this article from freeCodeCamp](https://medium.freecodecamp.org/simplified-explanation-to-mvc-5d307796df30).
-- This [crash course video](https://www.youtube.com/watch?v=DZBGEVgL2eE) from Web Dev Simplified gives a run-down of how you should expect to use MongoDB (Mongoose) in Node.js, as well as some advanced things you can do with object schemas.
